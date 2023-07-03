@@ -1,0 +1,6 @@
+framework module Pods_TestStrlengs_Tests {
+  umbrella header "Pods-TestStrlengs_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module TestStrlengs {
+  umbrella header "TestStrlengs-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TestStrlengs",
+  "version": "0.1.0",
+  "summary": "A short description of TestStrlengs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/5450763/TestStrlengs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "5450763": "348802059@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/5450763/TestStrlengs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestStrlengs/Classes/**/*"
+}
